@@ -1,0 +1,15 @@
+# Created at 2023-02-14T20:43:51.071
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2023-02-14T20:43:51.072
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2023-02-14T20:43:51.073
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (mmap) failed to map 132120576 bytes for G1 virtual space'.
+
+# Created at 2023-02-14T20:43:51.074
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2023-02-14T20:43:51.091
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\sheta\New\GreenKart\hs_err_pid47056.log'.
+

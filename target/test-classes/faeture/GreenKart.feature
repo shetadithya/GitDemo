@@ -6,3 +6,5 @@ Given user is on greenkart landing page
 When searched with "Tom" and store it
 Then seched with "Tom" and store it 
  And both serches matches 
+ 
+

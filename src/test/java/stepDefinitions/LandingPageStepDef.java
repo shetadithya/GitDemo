@@ -26,7 +26,7 @@ public LandingPageStepDef(DriverSetUp driverSetup)
 
 	@Given("user is on greenkart landing page")
 	public void user_is_on_greenkart_landing_page() {
-		System.setProperty("webdriver.chrome.driver", "D:\\chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver", "D:\\chromedriver.exe");
 		driverSetup.driver = new ChromeDriver();
 		driverSetup.driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
 	  
